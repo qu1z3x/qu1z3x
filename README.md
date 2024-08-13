@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150">
-  <h1>digfusion</h1>
+  <dir>digfusion</dir>
 </p>
 
 ## Обо мне
