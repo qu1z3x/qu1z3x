@@ -1,7 +1,9 @@
-# Привет, я [Ваше Имя] 👋
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Logo" width="150">
+  
+</p>
+<p align="center">
   <dir>digfusion</dir>
 </p>
 
@@ -18,4 +20,4 @@
 
 ## Статистика GitHub
 
-![Ваша статистика](https://github-readme-stats.vercel.app/api?username=ваш_логин&show_icons=true&theme=radical)
+![Ваша статистика](https://github-readme-stats.vercel.app/api?qu1z3x&show_icons=true&theme=radical)
