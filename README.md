@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="media/digfusionYellow.PNG" alt="Logo" width="150">
+  <img src="media/digfusionYellow.PNG" alt="Logo" width="120">
 </p>
-
-<h1 align="center">digfusion</h1>
+<h1 align="center" color="yellow">digfusion</h1>
 
 ## Обо мне
 
