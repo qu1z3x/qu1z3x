@@ -1,12 +1,8 @@
-![image](https://github.com/user-attachments/assets/18dae673-3088-48a4-ba8c-9dd6221a38bc)
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/01d2918f-12fc-41c8-b277-9a9293c6623e)
-" alt="Logo" width="150">
-  
+  <img src="media/digfusionLogo" alt="Logo" width="150">
 </p>
-<p align="center">
-  <dir>digfusion</dir>
-</p>
+
+<h2 align="center">digfusion</h2>
 
 ## Обо мне
 
