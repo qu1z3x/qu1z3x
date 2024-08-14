@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/digfusionLogo" alt="Logo" width="150">
+  <img src="media/digfusionLogo.PNG" alt="Logo" width="150">
 </p>
 
 <h2 align="center">digfusion</h2>
