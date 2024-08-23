@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/digfusionYellow.PNG" alt="Logo" width="120">
+  <img src="media/digfusionLogos/digfusionYellow.PNG" alt="Logo" width="120">
 </p>
 <h1 align="center">digfusion</h1>
 
@@ -13,16 +13,16 @@
   
 </div>
 
-## Проекты
+## Projects
 
-<div style="display: flex; align-items: center; border: 2px solid #2CA5E0; border-radius: 10px; padding: 10px; margin-bottom: 10px; background-color: #E0F7FA;">
-  <img src="media/project1.png" alt="Проект 1" width="80" height="80" style="border-radius: 50%; margin-right: 20px;">
-  <div>
-    <strong>Проект 1</strong><br>
-    <a href="https://t.me/your_bot_1_link">Перейти к боту</a><br>
-    Краткое описание проекта 1.
-  </div>
-</div>
+<a href="https://t.me/digschbot">
+  <img src="media/others/digschbotBlank.png" alt="Проект 3" width="160">
+</a><a href="https://t.me/digschbot">
+  <img src="media/others/digschbotBlank.png" alt="Проект 3" width="160">
+</a>
+
+[![Check out the repository](https://img.shields.io/badge/Check_repository-007BFF?style=for-the-badge)](https://github.com/username/repository)
+[![Check out the repository](https://img.shields.io/badge/Check_repository-007BFF?style=for-the-badge)](https://github.com/username/repository)
 
 ## Контакты
 
