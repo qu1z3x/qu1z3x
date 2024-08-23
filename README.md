@@ -9,13 +9,11 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
- ![Ubuntu](media\botBlanks\digfusionbot\digfusionLogo.png)
 <a href="https://t.me/digfusion">
-  <img src="media\botBlanks\digfusionbot\digfusionLogo.png" alt="1" height="27.5">
+  <img src="media\botBlanks\digfusionbot\logoBlank.png" alt="1" height="27.61">
 </a>
-  ![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-  
-  
+![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+
 </div>
 
 <h2 align="center">finished Telegram bots</h2>
