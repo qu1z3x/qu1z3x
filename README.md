@@ -13,16 +13,32 @@
   
 </div>
 
-## Projects
+<h2 align="center">all my projects</h2>
 
-<a href="https://t.me/digschbot">
-  <img src="media/others/digschbotBlank.png" alt="Проект 3" width="160">
-</a><a href="https://t.me/digschbot">
-  <img src="media/others/digschbotBlank.png" alt="Проект 3" width="160">
+<div align="center">
+
+<a href="https://t.me/digfusionbot">
+  <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="40">
 </a>
+<a href="https://t.me/digmathbot">
+  <img src="media\botBlanks\digmathbot\blank.png" alt="2" height="40">
+</a>
+<a href="https://t.me/digjudgebot">
+  <img src="media\botBlanks\digjudgebot\blank.png" alt="3" height="40">
+</a>
+</div>
 
-[![Check out the repository](https://img.shields.io/badge/Check_repository-007BFF?style=for-the-badge)](https://github.com/username/repository)
-[![Check out the repository](https://img.shields.io/badge/Check_repository-007BFF?style=for-the-badge)](https://github.com/username/repository)
+<div align="center">
+<a href="https://github.com/qu1z3x/digfusionbot">
+  <img src="media\botBlanks\digfusionbot\repoButton.png" alt="1" height="20">
+</a>
+<a href="https://github.com/qu1z3x/digmathbot">
+  <img src="media\botBlanks\digmathbot\repoButton.png" alt="2" height="20">
+</a>
+<a href="https://github.com/qu1z3x/digjudgebot">
+  <img src="media\botBlanks\digjudgebot\repoButton.png" alt="3" height="20">
+</a>
+</div>
 
 ## Контакты
 
