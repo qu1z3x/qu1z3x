@@ -43,17 +43,6 @@
 </a>
 </div>
 
-##
-
-<p align="left">
-  <a href="https://t.me/your_telegram_profile">
-    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
 <!---
 ## Обо мне
 - 🔭 Сейчас работаю над [Проектом]
