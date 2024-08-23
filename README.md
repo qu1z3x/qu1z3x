@@ -10,10 +10,13 @@
   ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+  <a href="https://t.me/digfusion">
+  <img src="media\botBlanks\digfusionbot\digfusionLogo.png" alt="1" height="27.5">
+</a>
   
 </div>
 
-<h2 align="center">all my projects</h2>
+<h2 align="center">finished Telegram bots</h2>
 
 <div align="center">
 
@@ -40,7 +43,7 @@
 </a>
 </div>
 
-## Контакты
+##
 
 <p align="left">
   <a href="https://t.me/your_telegram_profile">
