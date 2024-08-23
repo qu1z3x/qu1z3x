@@ -13,7 +13,27 @@
   
 </div>
 
+## Проекты
 
+<div style="display: flex; align-items: center; border: 2px solid #2CA5E0; border-radius: 10px; padding: 10px; margin-bottom: 10px; background-color: #E0F7FA;">
+  <img src="media/project1.png" alt="Проект 1" width="80" height="80" style="border-radius: 50%; margin-right: 20px;">
+  <div>
+    <strong>Проект 1</strong><br>
+    <a href="https://t.me/your_bot_1_link">Перейти к боту</a><br>
+    Краткое описание проекта 1.
+  </div>
+</div>
+
+## Контакты
+
+<p align="left">
+  <a href="https://t.me/your_telegram_profile">
+    <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 <!---
 ## Обо мне
