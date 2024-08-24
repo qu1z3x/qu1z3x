@@ -53,6 +53,7 @@
 <a href="https://github.com/qu1z3x/digschbot">
   <img src="media\botBlanks\digschbot\repoButton.png" alt="3" height="20">
 </a>
+content is available from the web version (maybe)
 </div>
 
 <!-- ## Статистика GitHub
