@@ -54,7 +54,7 @@
   <img src="media\botBlanks\digschbot\repoButton.png" alt="3" height="20">
 </a>
 
-content is available from the web version (maybe)
+maybe this content is not shown on the desktop app
 </div>
 
 <!-- ## Статистика GitHub
