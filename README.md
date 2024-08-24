@@ -26,9 +26,6 @@
 <a href="https://t.me/digmathbot">
   <img src="media\botBlanks\digmathbot\blank.png" alt="2" height="40">
 </a>
-<a href="https://t.me/digjudgebot">
-  <img src="media\botBlanks\digjudgebot\blank.png" alt="3" height="40">
-</a>
 </div>
 
 <div align="center">
@@ -38,18 +35,26 @@
 <a href="https://github.com/qu1z3x/digmathbot">
   <img src="media\botBlanks\digmathbot\repoButton.png" alt="2" height="20">
 </a>
-<a href="https://github.com/qu1z3x/digjudgebot">
-  <img src="media\botBlanks\digjudgebot\repoButton.png" alt="3" height="20">
+</div>
+
+<div align="center">
+<a href="https://t.me/digjudgebot">
+  <img src="media\botBlanks\digjudgebot\blank.png" alt="3" height="40">
+</a>
+<a href="https://t.me/digschbot">
+  <img src="media\botBlanks\digschbot\blank.png" alt="4" height="40">
 </a>
 </div>
 
-<!---
-## Обо мне
-- 🔭 Сейчас работаю над [Проектом]
-- 🌱 Изучаю **[Технологии]**
-- 💬 Спрашивайте меня о **[Ваши Специализации]**
-- 📫 Свяжитесь со мной: [email@example.com](mailto:email@example.com)
+<div align="center">
+<a href="https://github.com/qu1z3x/digjudgebot">
+  <img src="media\botBlanks\digjudgebot\repoButton.png" alt="3" height="20">
+</a>
+<a href="https://github.com/qu1z3x/digschbot">
+  <img src="media\botBlanks\digschbot\repoButton.png" alt="3" height="20">
+</a>
+</div>
 
-## Статистика GitHub
+<!-- ## Статистика GitHub
 ![Ваша статистика](https://github-readme-stats.vercel.app/api?qu1z3x&show_icons=true&theme=radical)
 -->
