@@ -1,6 +1,8 @@
-<p align="center">
+<div align="center">
+<a href="https://t.me/digfusion">
   <img src="media/digfusionLogos/digfusionYellow.PNG" alt="Logo" width="120">
-</p>
+  </a>
+</div>
 <h1 align="center">digfusion</h1>
 
 <div align="center">
@@ -16,7 +18,7 @@
 
 </div>
 
-<h2 align="center">finished projects & repositories</h2>
+<h2 align="center">finished apps & repositories</h2>
 
 <div align="center">
 
@@ -56,16 +58,14 @@
 
 <kbd><i>maybe this content is not shown on the desktop git</i></kbd>
 
----
-
 </div>
 
 <div align="center">
 <h1 align="center">сontact us</h1>
 
-![Support](https://img.shields.io/badge/-Support-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)
-![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=000000)
-![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)
+[![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusion)
+[![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/digfusion)
+[![Support](https://img.shields.io/badge/-Support-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusionsupport)
 
 </div>
 
