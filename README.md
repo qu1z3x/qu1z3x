@@ -16,7 +16,7 @@
 
 </div>
 
-<h2 align="center">finished Telegram bots</h2>
+<h2 align="center">finished projects & repositories</h2>
 
 <div align="center">
 
@@ -54,7 +54,19 @@
   <img src="media\botBlanks\digschbot\repoButton.png" alt="3" height="20">
 </a>
 
-maybe this content is not shown on the desktop app
+<kbd><i>maybe this content is not shown on the desktop git</i></kbd>
+
+---
+
+</div>
+
+<div align="center">
+<h1 align="center">сontact us</h1>
+
+![Support](https://img.shields.io/badge/-Support-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)
+![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=000000)
+![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)
+
 </div>
 
 <!-- ## Статистика GitHub
