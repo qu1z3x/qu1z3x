@@ -2,70 +2,43 @@
 <a href="https://t.me/digfusion">
   <img src="media/digfusionLogos/digfusionYellow.PNG" alt="Logo" width="120">
   </a>
-</div>
 <h1 align="center">digfusion</h1>
 
-<div align="center">
-  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-  ![npm](https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-  ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<a href="https://t.me/digfusion">
-  <img src="media\botBlanks\digfusionbot\logoBlank.png" alt="1" height="27.61">
-</a>
-![Telegram API](https://img.shields.io/badge/-Telegram%20API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-FECA26?style=for-the-badge&logo=npm&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
 
-</div>
+<h3><i>"we make complex - simple and сlear"</i></h3>
 
-<h2 align="center">finished apps & repositories</h2>
+<h1>finished apps</h1>
 
-<div align="center">
-
-<a href="https://t.me/digfusionbot">
-  <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="40">
-</a>
-<a href="https://t.me/digmathbot">
-  <img src="media\botBlanks\digmathbot\blank.png" alt="2" height="40">
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/qu1z3x/digfusionbot">
-  <img src="media\botBlanks\digfusionbot\repoButton.png" alt="1" height="20">
+  <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digmathbot">
-  <img src="media\botBlanks\digmathbot\repoButton.png" alt="2" height="20">
+  <img src="media\botBlanks\digmathbot\blank.png" alt="2" height="50">
 </a>
-</div>
-
-<div align="center">
-<a href="https://t.me/digjudgebot">
-  <img src="media\botBlanks\digjudgebot\blank.png" alt="3" height="40">
+<a href="https://github.com/qu1z3x/diglibrarybot">
+  <img src="media\botBlanks\diglibrarybot\blank.png" alt="3" height="50">
 </a>
-<a href="https://t.me/digschbot">
-  <img src="media\botBlanks\digschbot\blank.png" alt="4" height="40">
-</a>
-</div>
-
-<div align="center">
 <a href="https://github.com/qu1z3x/digjudgebot">
-  <img src="media\botBlanks\digjudgebot\repoButton.png" alt="3" height="20">
+  <img src="media\botBlanks\digjudgebot\blank.png" alt="4" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digschbot">
-  <img src="media\botBlanks\digschbot\repoButton.png" alt="3" height="20">
+  <img src="media\botBlanks\digschbot\blank.png" alt="5" height="50">
 </a>
 
-<kbd><i>maybe this content is not shown on the desktop git</i></kbd>
+<!-- <a href="https://t.me/digfusion">
+  <img src="media\digfusionLogos\logoBlank.png" alt="1" height="27.61">
+</a> -->
 
-</div>
+<h2>enjoy my works? contact us</h2>
 
-<div align="center">
-<h1 align="center">сontact us</h1>
-
-[![Telegram](https://img.shields.io/badge/-Telegram-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusion)
-[![VK](https://img.shields.io/badge/-VK-FFFFFF?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/digfusion)
-[![Support](https://img.shields.io/badge/-Support-FFFFFF?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusionsupport)
+[![Telegram](https://img.shields.io/badge/-Telegram-FECA26?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusion)
+[![VK](https://img.shields.io/badge/-VK-FECA26?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/digfusion)
+[![Support](https://img.shields.io/badge/-Support-FECA26?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusionsupport)
 
 </div>
 
