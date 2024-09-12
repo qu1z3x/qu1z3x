@@ -12,7 +12,7 @@
 
 <h3><i>"we make complex - simple and сlear"</i></h3>
 
-<h1>finished apps</h1>
+<h1>finished projects</h1>
 
 <a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="50">
@@ -23,6 +23,7 @@
 <a href="https://github.com/qu1z3x/diglibrarybot">
   <img src="media\botBlanks\diglibrarybot\blank.png" alt="3" height="50">
 </a>
+
 <a href="https://github.com/qu1z3x/digjudgebot">
   <img src="media\botBlanks\digjudgebot\blank.png" alt="4" height="50">
 </a>
