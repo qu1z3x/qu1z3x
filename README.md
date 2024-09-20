@@ -14,7 +14,7 @@
 
 <h1>finished projects</h1>
 
-<a href="https://github.com/qu1z3x/digfusionbot">
+<div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digmathbot">
@@ -22,14 +22,14 @@
 </a>
 <a href="https://github.com/qu1z3x/diglibrarybot">
   <img src="media\botBlanks\diglibrarybot\blank.png" alt="3" height="50">
-</a>
+</a></div>
 
-<a href="https://github.com/qu1z3x/digjudgebot">
+<div><a href="https://github.com/qu1z3x/digjudgebot">
   <img src="media\botBlanks\digjudgebot\blank.png" alt="4" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digschbot">
   <img src="media\botBlanks\digschbot\blank.png" alt="5" height="50">
-</a>
+</a></div>
 
 <!-- <a href="https://t.me/digfusion">
   <img src="media\digfusionLogos\logoBlank.png" alt="1" height="27.61">
