@@ -12,7 +12,8 @@
 
 <h3><i>"we make complex - simple and сlear"</i></h3>
 
-<h1>finished projects</h1>
+<h1>this my projects</h1>
+<h4><i>click to see the repository!</i></h4>
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot\blank.png" alt="1" height="50">
@@ -40,6 +41,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-FECA26?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusion)
 [![VK](https://img.shields.io/badge/-VK-FECA26?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/digfusion)
 [![Support](https://img.shields.io/badge/-Support-FECA26?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusionsupport)
+
+<kbd>maybe some content isn`t shown on the desktop app (i dont know why)</kbd>
 
 </div>
 
