@@ -12,7 +12,7 @@
 
 <h3><i>"we make complex - simple and сlear"</i></h3>
 
-<h1>this my projects</h1>
+<h1>my projects</h1>
 <h4><i>click to see the repository!</i></h4>
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
