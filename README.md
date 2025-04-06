@@ -20,24 +20,29 @@
 <div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot.png" alt="1" height="50">
 </a>
-<a href="https://github.com/qu1z3x/NeuroMethod_bot">
-  <img src="media\botBlanks\NeuroMethod_bot.png" alt="6" height="50">
+<a href="https://github.com/qu1z3x/neuro_method_bot">
+  <img src="media\botBlanks\neuro_method_bot.png" alt="6" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digmathbot">
   <img src="media\botBlanks\digmathbot.png" alt="2" height="50">
 </a></div>
 
-<div><a href="https://github.com/qu1z3x/atlant_bot">
+<div><a href="https://github.com/qu1z3x/atlasum_bot">
   <img src="media\botBlanks\atlasum_bot.png" alt="7" height="50">
+</a>
+<a href="https://github.com/qu1z3x/KungFuFighter_bot">
+  <img src="media\botBlanks\KungFuFighter_bot.png" alt="4" height="50">
 </a>
 <a href="https://github.com/qu1z3x/digschbot">
   <img src="media\botBlanks\digschbot.png" alt="5" height="50">
 </a>
+</div>
+
+<div>
 <a href="https://github.com/qu1z3x/digjudgebot">
   <img src="media\botBlanks\digjudgebot.png" alt="4" height="50">
-</a></div>
-
-<div><a href="https://github.com/qu1z3x/diglibrarybot">
+</a>
+<a href="https://github.com/qu1z3x/diglibrarybot">
   <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
 </a>
 <a href="https://github.com/qu1z3x/cartel_nav_bot">
