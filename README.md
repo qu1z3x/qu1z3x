@@ -15,7 +15,9 @@
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
 ![tmux](https://img.shields.io/badge/-tmux-FECA26?style=for-the-badge&logo=gnubash&logoColor=black)
 
-<h1>my projects</h1>
+<h1>my works</h1>
+
+<h2>Java Script</h2>
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot.png" alt="1" height="50">
@@ -28,34 +30,37 @@
 </a>
 </div>
 
-<div><a href="https://github.com/qu1z3x/atlasum_bot">
+<div><a href="https://github.com/qu1z3x/digschbot">
+  <img src="media\botBlanks\digschbot.png" alt="5" height="50">
+</a><a href="https://github.com/qu1z3x/atlasum_bot">
   <img src="media\botBlanks\atlasum_bot.png" alt="7" height="50">
 </a>
+<a href="https://github.com/qu1z3x/digjudgebot">
+  <img src="media\botBlanks\digjudgebot.png" alt="4" height="50">
+</a>
+
+</div>
+
+<div>
+
 <a href="https://github.com/qu1z3x/digmathbot">
   <img src="media\botBlanks\digmathbot.png" alt="2" height="50">
 </a>
-<a href="https://github.com/qu1z3x/digschbot">
-  <img src="media\botBlanks\digschbot.png" alt="5" height="50">
+<a href="https://github.com/qu1z3x/digtionary">
+  <img src="media\botBlanks\digtionarybot.png" alt="8" height="50">
 </a>
 </div>
 
 <div>
-<a href="https://github.com/qu1z3x/digjudgebot">
-  <img src="media\botBlanks\digjudgebot.png" alt="4" height="50">
-</a>
-<a href="https://github.com/qu1z3x/cartel_nav_bot">
-  <img src="media\botBlanks\cartel_nav_bot.png" alt="8" height="50">
-</a></div>
-
-<div><a href="https://github.com/qu1z3x/diglibrarybot">
+<a href="https://github.com/qu1z3x/diglibrarybot">
   <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
 </a></div>
 
 <h4><i>click to see the repository!</i></h4>
 
-<h2>enjoy my works? just visit it 👇</h2>
+<h2>see awesome web 👇</h2>
 
-<div><a href="https://github.com/qu1z3x/cartel_nav_bot">
+<div><a href="https://digfusion.github.io/digfusion.ru/">
   <img src="media\digfusionLogos\logoBlank.png" alt="8" height="50">
 </a></div>
 
@@ -67,7 +72,3 @@
 <kbd>grateful for your coming!</kbd>
 
 </div>
-
-<!-- ## Статистика GitHub
-![Ваша статистика](https://github-readme-stats.vercel.app/api?qu1z3x&show_icons=true&theme=radical)
--->
