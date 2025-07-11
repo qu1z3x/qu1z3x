@@ -6,14 +6,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
+![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
 ![npm](https://img.shields.io/badge/-npm-FECA26?style=for-the-badge&logo=npm&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
-![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-FECA26?style=for-the-badge&logo=openai&logoColor=black)
-![NGINX](https://img.shields.io/badge/-NGINX-FECA26?style=for-the-badge&logo=nginx&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
-![tmux](https://img.shields.io/badge/-tmux-FECA26?style=for-the-badge&logo=gnubash&logoColor=black)
 
 <h1>my works</h1>
 
