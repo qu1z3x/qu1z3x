@@ -1,8 +1,8 @@
 <div align="center">
-<a href="https://t.me/digfusion">
-  <img src="media/digfusionLogos/digfusionYellow.PNG" alt="Logo" width="120">
-  </a>
-<h1 align="center">digfusion</h1>
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/ce0888ef-60b4-4568-99cd-27dda8c527ce" />
+
+###
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
@@ -13,9 +13,9 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-FECA26?style=for-the-badge&logo=openai&logoColor=black)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<h1>my works</h1>
+<h1><b>my works</b></h1>
 
-<h2>Java Script</h2>
+<h3>Java Script</h3>
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot.png" alt="1" height="50">
