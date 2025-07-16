@@ -56,17 +56,12 @@
 
 <h4><i>click to see the repository!</i></h4>
 
-<h2>see awesome web 👇</h2>
+<h3><i>also i had my own IT company 👇</i></h3>
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
-  <img src="media\digfusionLogos\logoBlank.png" alt="8" height="50">
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/fd0e0747-5ce2-4b5a-bd56-7690b900a163" />
+
 </a></div>
 
-<!-- [![digfusion.ru](https://digfusion.ru)](digfusion.ru)
-[![VK](https://img.shields.io/badge/-VK-FECA26?style=for-the-badge&logo=vk&logoColor=000000)](https://vk.com/digfusion)
-[![Support](https://img.shields.io/badge/-Support-FECA26?style=for-the-badge&logo=telegram&logoColor=000000)](https://t.me/digfusionsupport) -->
-<!-- <kbd>maybe some content isn`t shown on the desktop app (i dont know why)</kbd> -->
-
-<kbd>grateful for your coming!</kbd>
 
 </div>
