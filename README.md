@@ -1,15 +1,17 @@
 <div align="center">
   
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/ce0888ef-60b4-4568-99cd-27dda8c527ce" />
+<div><img height="200" alt="image" src="https://github.com/user-attachments/assets/ce0888ef-60b4-4568-99cd-27dda8c527ce" /></div>
 
-###
+<div><h1>I AM <s>MUSIC</s> qu1z3x</h1></div>
+
+<h3>code && figma - fr my dawgs</h3>
 
 ![Go](https://img.shields.io/badge/-Golang-FECA26?style=for-the-badge&logo=go&logoColor=black&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-FECA26?style=for-the-badge&logo=figma&logoColor=black)
 ![Framer](https://img.shields.io/badge/-Framer-FECA26?style=for-the-badge&logo=framer&logoColor=black)
-![macOS](https://img.shields.io/badge/-macOS-FECA26?style=for-the-badge&logo=apple&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-FECA26?style=for-the-badge&logo=apple&logoColor=black)
 
 
 <h1><b>my works</b></h1>
@@ -78,8 +80,10 @@
 
 <div>
 <a href="https://github.com/qu1z3x/myslik_bot">
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/10dd3b2d-e8f5-4af5-9467-6cac6fafe248" />
+</a>
+<a href="https://github.com/qu1z3x/myslik_bot">
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/c7f0a48a-d40a-4eaa-8d5c-b3b8a7bcdd7c" />
-  <img  alt="image" src="https://github.com/user-attachments/assets/ff119110-3750-417d-8486-72ec5bb688dd" height="50"/>
 </a></div>
 
 <div>
