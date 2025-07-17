@@ -14,6 +14,9 @@
 
 <h1><b>my works</b></h1>
 
+<img height="140" alt="image" src="https://github.com/user-attachments/assets/d7b95996-5727-4db2-91d3-67dd6df9ddda" />
+
+
 <h3>Java Script</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
@@ -78,6 +81,12 @@
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/c7f0a48a-d40a-4eaa-8d5c-b3b8a7bcdd7c" />
   <img  alt="image" src="https://github.com/user-attachments/assets/ff119110-3750-417d-8486-72ec5bb688dd" height="50"/>
 </a></div>
+
+<div>
+  <a href="https://github.com/qu1z3x/digfusionbot"></a>
+  <img  height="50" alt="image" src="https://github.com/user-attachments/assets/0607a5b3-17dd-4fe4-b2f6-cda4bb9946e3" />
+</div>
+
 
 
 <h6><i>click for open</i></h6>
