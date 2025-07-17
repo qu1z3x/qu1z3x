@@ -4,8 +4,8 @@
 
 ###
 
+![Go](https://img.shields.io/badge/-Golang-FECA26?style=for-the-badge&logo=go&logoColor=black&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-FECA26?style=for-the-badge&logo=go&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-FECA26?style=for-the-badge&logo=figma&logoColor=black)
 ![Framer](https://img.shields.io/badge/-Framer-FECA26?style=for-the-badge&logo=framer&logoColor=black)
@@ -78,7 +78,8 @@
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-FECA26?style=for-the-badge&logo=openai&logoColor=black)
 
 
-none
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/ff119110-3750-417d-8486-72ec5bb688dd" />
+
 
 <h6><i>click for open</i></h6>
 
@@ -93,7 +94,7 @@ none
 
 ##
 
-<img height="200" alt="image" src="https://github.com/user-attachments/assets/abc515f8-b7e8-4285-bea2-6dd833b0570a" />
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/a62ab988-b234-45b9-a507-37b0706309e3" />
 
 
 </div>
