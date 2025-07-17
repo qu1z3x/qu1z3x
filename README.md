@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img height="200" alt="image" src="https://github.com/user-attachments/assets/ce0888ef-60b4-4568-99cd-27dda8c527ce" />
 
 ###
@@ -88,10 +88,13 @@
 
 <h6><i>click for open</i></h6>
 
-##
 
-<h3><i>also i had my own IT company</i></h3>
-<h3>👇</h3>
+<h2><i>also i had IT company</i></h2>
+
+
+<div><a href="https://digfusion.github.io/digfusion.ru/">
+<img height="250" alt="image" src="https://github.com/user-attachments/assets/0a1a61e4-6fc2-41fe-a51e-8943ed4c5cb4" />
+</a></div>
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
   <img height="50" alt="image" src="https://github.com/user-attachments/assets/fd0e0747-5ce2-4b5a-bd56-7690b900a163" />
