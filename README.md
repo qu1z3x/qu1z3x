@@ -79,7 +79,7 @@
 
 
 <div>
-<a href="https://github.com/qu1z3x/myslik_bot">
+<a href="https://github.com/qu1z3x/golangTodos">
 <img height="50" alt="image" src="https://github.com/user-attachments/assets/10dd3b2d-e8f5-4af5-9467-6cac6fafe248" />
 </a>
 <a href="https://github.com/qu1z3x/myslik_bot">
