@@ -6,21 +6,15 @@
 
 ![Go](https://img.shields.io/badge/-Golang-FECA26?style=for-the-badge&logo=go&logoColor=black&logoWidth=40)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![Figma](https://img.shields.io/badge/-Figma-FECA26?style=for-the-badge&logo=figma&logoColor=black)
 ![Framer](https://img.shields.io/badge/-Framer-FECA26?style=for-the-badge&logo=framer&logoColor=black)
-
-![OpenAI](https://img.shields.io/badge/-OpenAI-FECA26?style=for-the-badge&logo=openai&logoColor=black)
-![hug face](https://img.shields.io/badge/-Hug%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenRouter](https://img.shields.io/badge/-OpenRouter-FECA26?style=for-the-badge&logo=openai&logoColor=black)
-
-
 ![macOS](https://img.shields.io/badge/-macOS-FECA26?style=for-the-badge&logo=apple&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
 
 
 <h1><b>my works</b></h1>
 
-<h3>Java Script (tg bots)</h3>
+<h3>Java Script</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
@@ -89,15 +83,15 @@
 <h6><i>click for open</i></h6>
 
 
-<h2><i>also i had IT company</i></h2>
+<h2><i>i used to have IT company</i></h2>
 
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/0a1a61e4-6fc2-41fe-a51e-8943ed4c5cb4" />
+<img height="240" alt="image" src="https://github.com/user-attachments/assets/0a1a61e4-6fc2-41fe-a51e-8943ed4c5cb4" />
 </a></div>
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
-  <img height="50" alt="image" src="https://github.com/user-attachments/assets/fd0e0747-5ce2-4b5a-bd56-7690b900a163" />
+  <img height="50" alt="image" src="https://github.com/user-attachments/assets/c910ba8c-b90a-4189-97f0-9dd20b5fb778" />
 </a></div>
 
 ##
