@@ -78,7 +78,12 @@
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter-FECA26?style=for-the-badge&logo=openai&logoColor=black)
 
 
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/ff119110-3750-417d-8486-72ec5bb688dd" />
+
+<div>
+<a href="https://github.com/qu1z3x/myslik_bot">
+<img height="50" alt="image" src="https://github.com/user-attachments/assets/c7f0a48a-d40a-4eaa-8d5c-b3b8a7bcdd7c" />
+  <img  alt="image" src="https://github.com/user-attachments/assets/ff119110-3750-417d-8486-72ec5bb688dd" height="50"/>
+</a></div>
 
 
 <h6><i>click for open</i></h6>
