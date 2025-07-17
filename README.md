@@ -14,7 +14,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-FECA26?style=for-the-badge&logo=apple&logoColor=black)
 
 
-<h1><b>my works</b></h1>
+<h1><b>go to my works</b></h1>
 
 <img height="140" alt="image" src="https://github.com/user-attachments/assets/d7b95996-5727-4db2-91d3-67dd6df9ddda" />
 
@@ -66,8 +66,6 @@
   <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
 </a></div>
 
-<h6><i>click for open</i></h6>
-
 <h3>Golang</h3>
 
 ![Telebot](https://img.shields.io/badge/-Telebot-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
@@ -106,6 +104,8 @@
 <div><a href="https://digfusion.github.io/digfusion.ru/">
   <img height="50" alt="image" src="https://github.com/user-attachments/assets/c910ba8c-b90a-4189-97f0-9dd20b5fb778" />
 </a></div>
+
+<h6>👆 click 👆</h6>
 
 ##
 
