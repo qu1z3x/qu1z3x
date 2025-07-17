@@ -5,17 +5,30 @@
 ###
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
-![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
-![npm](https://img.shields.io/badge/-npm-FECA26?style=for-the-badge&logo=npm&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-FECA26?style=for-the-badge&logo=go&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-FECA26?style=for-the-badge&logo=figma&logoColor=black)
+![Framer](https://img.shields.io/badge/-Framer-FECA26?style=for-the-badge&logo=framer&logoColor=black)
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-FECA26?style=for-the-badge&logo=openai&logoColor=black)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
+![hug face](https://img.shields.io/badge/-Hug%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-FECA26?style=for-the-badge&logo=openai&logoColor=black)
+
+
+![macOS](https://img.shields.io/badge/-macOS-FECA26?style=for-the-badge&logo=apple&logoColor=black)
+
 
 <h1><b>my works</b></h1>
 
-<h3>Java Script</h3>
+<h3>Java Script (tg bots)</h3>
+
+![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
+![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
+![npm](https://img.shields.io/badge/-npm-FECA26?style=for-the-badge&logo=npm&logoColor=black)
+![OpenAI](https://img.shields.io/badge/-OpenAI-FECA26?style=for-the-badge&logo=openai&logoColor=black)
+![hug face](https://img.shields.io/badge/-Hug%20Face-FECA26?style=for-the-badge&logo=huggingface&logoColor=black)
+![PM2](https://img.shields.io/badge/-PM2-FECA26?style=for-the-badge&logo=pm2&logoColor=black)
+
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
   <img src="media\botBlanks\digfusionbot.png" alt="1" height="50">
@@ -54,14 +67,33 @@
   <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
 </a></div>
 
-<h4><i>click to see the repository!</i></h4>
+<h6><i>click for open</i></h6>
 
-<h3><i>also i had my own IT company 👇</i></h3>
+<h3>Golang</h3>
+
+![Telebot](https://img.shields.io/badge/-Telebot-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
+![Mod](https://img.shields.io/badge/-Mod-FECA26?style=for-the-badge&logo=go&logoColor=black)
+![Air](https://img.shields.io/badge/-Air-FECA26?style=for-the-badge&logo=go&logoColor=black)
+![PM2](https://img.shields.io/badge/-PM2-FECA26?style=for-the-badge&logo=pm2&logoColor=black)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-FECA26?style=for-the-badge&logo=openai&logoColor=black)
+
+
+none
+
+<h6><i>click for open</i></h6>
+
+##
+
+<h3><i>also i had my own IT company</i></h3>
+<h3>👇</h3>
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
   <img height="50" alt="image" src="https://github.com/user-attachments/assets/fd0e0747-5ce2-4b5a-bd56-7690b900a163" />
-
 </a></div>
+
+##
+
+<img height="200" alt="image" src="https://github.com/user-attachments/assets/abc515f8-b7e8-4285-bea2-6dd833b0570a" />
 
 
 </div>
