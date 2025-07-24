@@ -19,7 +19,7 @@
 <img height="140" alt="image" src="https://github.com/user-attachments/assets/d7b95996-5727-4db2-91d3-67dd6df9ddda" />
 
 
-<h3>Java Script</h3>
+<h2>Java Script</h2>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
@@ -66,7 +66,9 @@
   <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
 </a></div>
 
-<h3>Golang</h3>
+
+
+<h2>Golang</h2>
 
 ![Telebot](https://img.shields.io/badge/-Telebot-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
 ![Mod](https://img.shields.io/badge/-Mod-FECA26?style=for-the-badge&logo=go&logoColor=black)
