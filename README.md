@@ -19,7 +19,7 @@
 <img height="140" alt="image" src="https://github.com/user-attachments/assets/d7b95996-5727-4db2-91d3-67dd6df9ddda" />
 
 
-<h2>Java Script</h2>
+<h2>Java Script - tg bots</h2>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-FECA26?style=for-the-badge&logo=node.js&logoColor=black)
 ![Telegram API](https://img.shields.io/badge/-Telegram%20API-FECA26?style=for-the-badge&logo=telegram&logoColor=black)
@@ -115,3 +115,4 @@
 
 
 </div>
+
