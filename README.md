@@ -15,11 +15,11 @@
 <h5><i>first, check out..</i></h5>
 <h1><b>my pride ↓</b></h1>
 
-<div><a href="https://github.com/qu1z3x/mainchik_bot">
+<div><a href="https://t.me/mainchik">
   <img height="60" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
   </a>
   
-  <a href="https://github.com/qu1z3x/digfusionbot">
+  <a href="https://t.me/digfusion">
  <img height="60" alt="image" src="https://github.com/user-attachments/assets/1986353e-d0d3-43c0-93a9-47762bf679c6" />
 
 </a></div>
@@ -89,7 +89,7 @@
 
 
 <div>
-  <a href="https://github.com/qu1z3x/mainchik_bot">
+ <a href="https://t.me/mainchik">
   <img height="50" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
   </a>
 <a href="https://github.com/qu1z3x/golangTodos">
@@ -123,5 +123,6 @@
 
 
 </div>
+
 
 
