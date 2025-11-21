@@ -12,15 +12,14 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-FECA26?style=for-the-badge&logo=ubuntu&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FECA26?style=for-the-badge&logo=javascript&logoColor=black)
 
-<h5><i>first, check out..</i></h5>
 <h1><b>my pride ↓</b></h1>
 
 <div><a href="https://t.me/mainchik">
-  <img height="60" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
+  <img height="62" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
   </a>
   
   <a href="https://t.me/digfusion">
- <img height="60" alt="image" src="https://github.com/user-attachments/assets/1986353e-d0d3-43c0-93a9-47762bf679c6" />
+ <img height="62" alt="image" src="https://github.com/user-attachments/assets/1986353e-d0d3-43c0-93a9-47762bf679c6" />
 
 </a></div>
 
@@ -43,23 +42,23 @@
 
 
 <div><a href="https://github.com/qu1z3x/digfusionbot">
-  <img src="media\botBlanks\digfusionbot.png" alt="1" height="50">
+  <img src="media\botBlanks\digfusionbot.png" alt="1" height="52">
 </a>
 <a href="https://github.com/qu1z3x/neuro_method_bot">
-  <img src="media\botBlanks\neuro_method_bot.png" alt="6" height="50">
+  <img src="media\botBlanks\neuro_method_bot.png" alt="6" height="52">
 </a>
 <a href="https://github.com/qu1z3x/KungFuFighter_bot">
-  <img src="media\botBlanks\KungFuFighter_bot.png" alt="4" height="50">
+  <img src="media\botBlanks\KungFuFighter_bot.png" alt="4" height="52">
 </a>
 </div>
 
 <div><a href="https://github.com/qu1z3x/digschbot">
-  <img src="media\botBlanks\digschbot.png" alt="5" height="50">
+  <img src="media\botBlanks\digschbot.png" alt="5" height="52">
 </a><a href="https://github.com/qu1z3x/atlasum_bot">
-  <img src="media\botBlanks\atlasum_bot.png" alt="7" height="50">
+  <img src="media\botBlanks\atlasum_bot.png" alt="7" height="52">
 </a>
 <a href="https://github.com/qu1z3x/digjudgebot">
-  <img src="media\botBlanks\digjudgebot.png" alt="4" height="50">
+  <img src="media\botBlanks\digjudgebot.png" alt="4" height="52">
 </a>
 
 </div>
@@ -67,16 +66,16 @@
 <div>
 
 <a href="https://github.com/qu1z3x/digmathbot">
-  <img src="media\botBlanks\digmathbot.png" alt="2" height="50">
+  <img src="media\botBlanks\digmathbot.png" alt="2" height="52">
 </a>
 <a href="https://github.com/qu1z3x/digtionary">
-  <img src="media\botBlanks\digtionarybot.png" alt="8" height="50">
+  <img src="media\botBlanks\digtionarybot.png" alt="8" height="52">
 </a>
 </div>
 
 <div>
 <a href="https://github.com/qu1z3x/diglibrarybot">
-  <img src="media\botBlanks\diglibrarybot.png" alt="3" height="50">
+  <img src="media\botBlanks\diglibrarybot.png" alt="3" height="52">
 </a></div>
 
 
@@ -90,13 +89,13 @@
 
 <div>
  <a href="https://t.me/mainchik">
-  <img height="50" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
+  <img height="52" alt="image" src="https://github.com/user-attachments/assets/9a5183f7-9051-4708-bcbc-452cd3cd7174" />
   </a>
 <a href="https://github.com/qu1z3x/golangTodos">
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/10dd3b2d-e8f5-4af5-9467-6cac6fafe248" />
+<img height="52" alt="image" src="https://github.com/user-attachments/assets/10dd3b2d-e8f5-4af5-9467-6cac6fafe248" />
 </a>
 <a href="https://github.com/qu1z3x/myslik_bot">
-<img height="50" alt="image" src="https://github.com/user-attachments/assets/c7f0a48a-d40a-4eaa-8d5c-b3b8a7bcdd7c" />
+<img height="52" alt="image" src="https://github.com/user-attachments/assets/c7f0a48a-d40a-4eaa-8d5c-b3b8a7bcdd7c" />
 </a></div>
 
 
@@ -112,7 +111,7 @@
 </a></div>
 
 <div><a href="https://digfusion.github.io/digfusion.ru/">
-  <img height="50" alt="image" src="https://github.com/user-attachments/assets/c910ba8c-b90a-4189-97f0-9dd20b5fb778" />
+  <img height="52" alt="image" src="https://github.com/user-attachments/assets/c910ba8c-b90a-4189-97f0-9dd20b5fb778" />
 </a></div>
 
 <h6>👆 click 👆</h6>
@@ -123,6 +122,7 @@
 
 
 </div>
+
 
 
 
